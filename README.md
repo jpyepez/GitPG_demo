@@ -7,4 +7,5 @@ This is a simple README file.
 Adding new stuff here.
 Adding more updates on new branch.
 
+This is gonna suck!!!
 This is gonna suck here too.
