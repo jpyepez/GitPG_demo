@@ -16,3 +16,6 @@ leadership skills. Conveniently recaptiualize granular strategic
 theme areas for ethical meta-services. Holisticly redefine world-class 
 systems whereas customized bandwidth. Quickly facilitate market-driven 
 communities.
+
+*Amazingly refactors all features and walks away without looking at 
+explosion.
