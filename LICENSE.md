@@ -1,7 +1,7 @@
 # LICENSE
 License stuff, adding a line.
 
-## Apache 2.0
+## Apache 3.1
 
 Dramatically create viral core competencies before 
 transparent catalysts for change. Credibly parallel 
