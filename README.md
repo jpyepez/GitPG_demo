@@ -31,5 +31,4 @@ More text added for rebase.
 
 # Repository Purpose
 
-Row row row your boat, genly down the stream
-Merrily, merrily, merrily, merrily...
+Purpose goes here.
