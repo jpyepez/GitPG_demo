@@ -28,3 +28,8 @@ Gonna test this in magithub.
 This SHOULD work!!!
 
 More text added for rebase.
+
+# Repository Purpose
+
+Row row row your boat, genly down the stream
+Merrily, merrily, merrily, merrily...
