@@ -27,3 +27,5 @@ Also, this is going to be merged with the stash.
 Also, this is going to be merged with the stash.
 
 # Updating LICENSE for reset
+
+Adding new license edits.
